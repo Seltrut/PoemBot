@@ -1,0 +1,11 @@
+{
+    "name": "poem-bot",
+    "version": "1.0.0",
+    "description": "Spits poems at you every so many messages",
+    "main": "PoemBot.js",
+    "author": "Turtles",
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "syllable": "^3.3.0"
+    }
+}
