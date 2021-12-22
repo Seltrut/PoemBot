@@ -4,7 +4,7 @@ const Haiku = require("./poemTypes/Haiku.js")
 let syllable = require('syllable');
 const client = new Discord.Client();
 
-client.login("NTMwMTAwNzk0NDQ4Njc0ODUz.DxhKTg.SF4M578rlA5o1ycy6xnJylH_n4k");
+client.login("<token>");
 let messages = [];
 let capacity = 10;
 
